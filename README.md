@@ -12,7 +12,7 @@
 ---
 
 ### 💻 About Me  
-- 🔭 I’m currently working on a **Web App**  
+- 🔭 I’m currently working on a **Chat App**  
 - 🌱 Learning **SpringBoot**  
 - 👯 Open to collaborating on **interesting projects**   
 - 👻 Fun fact: **Solving problems, hitting sixes, and getting lost in the wild – because who needs a map when you have code and a cricket bat?**  
