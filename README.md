@@ -6,7 +6,7 @@
 
 <p align="center">
   🚀 Passionate about problem-solving, coding, and building cool projects.  
-  <br>💀 Welcome to my graveyard, feel free to dig through my works! ✨
+  <br>💀 Welcome to my graveyard! feel free to dig through my works! ✨
 </p>
 
 ---
