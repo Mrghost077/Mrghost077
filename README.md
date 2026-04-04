@@ -5,20 +5,34 @@
 <h1 align="center">👻 Hey , I'm Safwan 👋</h1>
 
 <p align="center">
-  🚀 Passionate about problem-solving, coding, and building cool projects.  
+  🧑‍💻 <b>Full-Stack Developer | 3rd Year Software Engineering Undergraduate @ OUSL</b>
+  <br>
+  Focused on building scalable MERN applications and intuitive mobile experiences.
+  <br>
+  🧠 Passionate about problem-solving, coding, and building cool projects.  
   <br>💀 Welcome to my graveyard! feel free to dig through my works! ✨
 </p>
 
 ---
+### 🛠️ Featured Work (The Lab)
 
-### 💻 About Me  
-- 🔭 I’m currently working on a **Mobile App (SafeWalk)**  
-- 🌱 Learning **SpringBoot**  
-- 👯 Open to collaborating on **interesting projects**   
-- 👻 Fun fact: **Solving problems, hitting sixes, and getting lost in the wild – because who needs a map when you have code and a cricket bat?**  
+| Project | Tech Stack | Status |
+| :--- | :--- | :--- |
+| **[Teacher Management System](https://github.com/Mrghost077/Staff-Management-System-Frontend)** | React, Node.js, MongoDB, Express | ✅ Deployed |
+| **[SafeWalk - Personal Safety App](https://github.com/Mrghost077/SafeWalk)** | Java, Android Studio, Google Maps API | ✅ MVP Complete |
+| **[RevenantRx -Centralized E-Healthcare Pharmacy System](https://github.com/Mrghost077)** | MERN Stack, Android & java | 🏗️ In Progress |
 
 ---
-### 📊 GitHub Stats  
+
+### 💻 About Me 
+- 🎓 **Currently:** Transitioning into my 3rd year of B.Sc (Hons) in Software Engineering.
+- ⚡ **Specializing in:** MERN Stack development and Android Engineering (Java).
+- 🧠 **Learning:** AI,  Spring Boot & Microservices architecture.
+- 🤝 **Open to:** Internship opportunities and collaborating on high-impact projects.  
+- 👻 Fun fact: **I solve problems by day and haunt repositories by night. When I’m not hitting sixes or taking wickets, I’m probably getting lost in the wild.**  
+
+---
+### 📊 My Ghostly Activity  
 ![](https://github-readme-stats.vercel.app/api?username=Mrghost077&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&title_color=FF69B4&text_color=FFFFFF)
 
 #### 🔥 **GitHub Streak**  
@@ -31,6 +45,9 @@
 ---
 
 ### 🛠 Tech Stack  
+* **Front-of-House (UI/UX):** `React` • `JavaScript` • `Android (Java)` • `Figma`
+* **The Engine Room:** `Node.js` • `Express.js` • `MongoDB` • `MySQL`
+* **The Grimoire (Tools):** `Git` • `GitHub` • `Postman` • `Agile/Scrum`
 <p align="center">
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
